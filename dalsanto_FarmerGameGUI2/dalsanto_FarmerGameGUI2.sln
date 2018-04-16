@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dalsanto_FarmerGameGUI2", "dalsanto_FarmerGameGUI2\dalsanto_FarmerGameGUI2.csproj", "{C6D0CA35-B9CF-4C01-B029-23935D132D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6D0CA35-B9CF-4C01-B029-23935D132D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D0CA35-B9CF-4C01-B029-23935D132D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D0CA35-B9CF-4C01-B029-23935D132D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D0CA35-B9CF-4C01-B029-23935D132D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0088070D-2546-4696-88B6-8D188AE11214}
+	EndGlobalSection
+EndGlobal
