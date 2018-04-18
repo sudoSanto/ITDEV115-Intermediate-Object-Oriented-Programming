@@ -2,7 +2,7 @@ ITDEV115-Intermediate-Object-Oriented-Programming
 ------
 ### MATC Spring 2018
 
-Intermediate C# in Microsoft's .NET.  This course elaborated on what was learned in [ITDEV110 - Intro to Object Oriented Programming](https://github.com/sudoSanto/ITDEV110-Intro-to-Object-Oriented-Programming "ITDEV110 GitHub Repository").
+This course focuses on intermediate object-oriented concepts, such as encapsulation, data hiding, inheritance, and polymorphism.  Students will be introduced to file I/O, data abstraction, pointers, and database access.  Emphasis will be on class design, implementation, and problem solving using databases.
 
 Assignments
 ------
