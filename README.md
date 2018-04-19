@@ -6,7 +6,10 @@ This course focuses on intermediate object-oriented concepts, such as encapsulat
 
 Assignments
 ------
-*Assignment 1*
+
+[<img src="https://github.com/favicon.ico" alt="Assignment 1" width="18" height="18">](https://github.com/sudoSanto/ITDEV150-Database-Management-with-SQL/blob/master/Assignment1.txt "Assignment 1")&nbsp;
+**Placeholder**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Placeholder*
 
 <br/>
 
