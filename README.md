@@ -7,9 +7,46 @@ This course focuses on intermediate object-oriented concepts, such as encapsulat
 Assignments
 ------
 
-[<img src="https://github.com/favicon.ico" alt="Assignment 1" width="18" height="18">](https://github.com/sudoSanto/ITDEV150-Database-Management-with-SQL/blob/master/Assignment1.txt "Assignment 1")&nbsp;
-**Placeholder**\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Placeholder*
+[<img src="https://github.com/favicon.ico" alt="Assignment 1" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming/tree/master/BaseballPlayerApplication/BaseballPlayerApplication "Assignment 1")&nbsp;
+**Baseball Player App**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*C# Review*
+
+[<img src="https://github.com/favicon.ico" alt="Assignment 2" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming/tree/master/JumbleApp/JumbleApp "Assignment 2")&nbsp;
+**Jumble**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Word Jumble Game*
+
+[<img src="https://github.com/favicon.ico" alt="Assignment 3" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming/tree/master/PracticeArrays/PracticeArrays "Assignment 3")&nbsp;
+**Practice Arrays**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Practice with Arrays*
+
+[<img src="https://github.com/favicon.ico" alt="Assignment 4" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming/tree/master/ChickenFarmerGrain/ChickenFarmerGrain "Assignment 4")&nbsp;
+**Chicken Farmer Grain Game**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Simple Logic Game*
+
+[<img src="https://github.com/favicon.ico" alt="Midterm" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming/tree/master/dalsanto_ElectionProgram_Midterm/dalsanto_ElectionProgram_Midterm "Midterm")&nbsp;
+**Midterm**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Midterm App*
+
+[<img src="https://github.com/favicon.ico" alt="Assignment 5" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming/tree/master/dalsanto_FarmerGameGUI2/dalsanto_FarmerGameGUI2 "Assignment 5")&nbsp;
+**Chicken Farmer Grain Game GUI**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Applying the Chicken Farmer Grain Game to .NET Frames - NEEDS REFACTOR*
+
+[<img src="https://github.com/favicon.ico" alt="Assignment 6" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming/tree/master/SportingEventApp/SportingEventApp "Assignment 6")&nbsp;
+**Sporting Event App**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*App that uses multiple Frames.  Had a lot of fun with this one.*
+
+[<img src="https://github.com/favicon.ico" alt="Assignment 7" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming/tree/master/dalsanto_TicTacToe/dalsanto_TicTacToe "Assignment 7")&nbsp;
+**Tic Tac Toe**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Console Tic Tac Toe App with only human players.*
+
+**Trivia Game**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Trivia Game*
+
+**Trivia Game GUI**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Trivia Game using .NET Frames*
+
+**Final**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Final*
 
 <br/>
 
