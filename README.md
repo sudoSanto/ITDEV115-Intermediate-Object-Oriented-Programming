@@ -39,6 +39,10 @@ Assignments
 **Tic Tac Toe**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Console Tic Tac Toe App with only human players.*
 
+[<img src="https://github.com/favicon.ico" alt="Assignment 8" width="18" height="18">](https://github.com/sudoSanto/ITDEV115-Intermediate-Object-Oriented-Programming/tree/master/TicTacToeInheritance/TicTacToeInheritance "Assignment 8")&nbsp;
+**Tic Tac Toe Inheritance**\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Console Tic Tac Toe App with an AI Computer player.  Utilizes Inheritance and abstract classes.*
+
 **Trivia Game**\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Trivia Game*
 
